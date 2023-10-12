@@ -1,0 +1,17 @@
+{
+    "name": "Sample Progressive Web App",
+    "short_name": "SamplePWA",
+    "start_url": "/?home=true",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      }
+    ]
+  }
+  
